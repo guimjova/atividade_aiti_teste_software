@@ -1,1 +1,2 @@
-# atividade_aiti_teste_software
+# Atividade Teste de Software - AITI
+*Atividade de teste de software*
